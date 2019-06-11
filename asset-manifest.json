@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github-finder-vanilla/static/css/main.b4f77495.chunk.css",
-    "main.js": "/github-finder-vanilla/static/js/main.8f915409.chunk.js",
-    "main.js.map": "/github-finder-vanilla/static/js/main.8f915409.chunk.js.map",
+    "main.js": "/github-finder-vanilla/static/js/main.397ebb5b.chunk.js",
+    "main.js.map": "/github-finder-vanilla/static/js/main.397ebb5b.chunk.js.map",
     "runtime~main.js": "/github-finder-vanilla/static/js/runtime~main.bcbd2a28.js",
     "runtime~main.js.map": "/github-finder-vanilla/static/js/runtime~main.bcbd2a28.js.map",
     "static/js/2.4847decd.chunk.js": "/github-finder-vanilla/static/js/2.4847decd.chunk.js",
     "static/js/2.4847decd.chunk.js.map": "/github-finder-vanilla/static/js/2.4847decd.chunk.js.map",
     "index.html": "/github-finder-vanilla/index.html",
-    "precache-manifest.0b137586257fb1a4f9534900205ee5c4.js": "/github-finder-vanilla/precache-manifest.0b137586257fb1a4f9534900205ee5c4.js",
+    "precache-manifest.a310e7c3c3fbacfedccfe5b9813d128c.js": "/github-finder-vanilla/precache-manifest.a310e7c3c3fbacfedccfe5b9813d128c.js",
     "service-worker.js": "/github-finder-vanilla/service-worker.js",
     "static/css/main.b4f77495.chunk.css.map": "/github-finder-vanilla/static/css/main.b4f77495.chunk.css.map"
   }
