@@ -29,7 +29,7 @@ class User extends Component {
             return (
                 <Fragment>
                     <Link to='/' className='btn btn-light'>Back to Search</Link>
-                    Hiteable: {' '}
+                    Hireable: {' '}
                     {hireable ? (<i className='fas fa-check text-success' />) : (<i className='fas fa-times-circle text-danger' />)}
                     <div className='card grid-2'>
                         <div className="all-center">
