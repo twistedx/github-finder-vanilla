@@ -7,7 +7,8 @@ import Search from "./components/users/Search.js"
 import axios from 'axios';
 import Alert from './components/layout/Alert';
 import About from './components/pages/About';
-import User from "./components/users/User.js"
+import User from "./components/users/User.js";
+import Spinner from './components/layout/Spinner';
 
 
 
@@ -21,6 +22,14 @@ class App extends Component {
 
   }
 
+  componentDidMount() {
+    this.setState({ loading: true })
+    if (this.state.loading) {
+      return <Spinner />
+    } else {
+      this.searchUsers('twistedx');
+    }
+  }
   //search for users with this name 
   searchUsers = async text => {
     this.setState({ loading: true })
